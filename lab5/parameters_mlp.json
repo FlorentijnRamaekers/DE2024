@@ -2,5 +2,5 @@
   "project_id": "de2024-florentijn-ramaekers",
   "data_bucket": "data_de2024_fr",
   "trainset_filename": "training_set.csv",
-  "model_repo": "models_repo"
+  "model_repo": "models_de2024-fr"
 }
